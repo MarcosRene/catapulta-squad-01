@@ -1,8 +1,16 @@
+<p align='center'>
+  <img
+       width='400px'
+       src='https://miro.medium.com/max/1024/1*xDi2csEAWxu95IEkaNdFUQ.png' 
+       alt='ract native logo'
+  />
+</p>
+
 <h1 align='center'>
   catapulta squad 01
 </h1>
 <h2 align='center'> This project is to learn react-native framework </h2>
- 
+
 [React-Native](https://reactnative.dev/)
  - Version ~> "0.66.1"
   
